@@ -2,5 +2,5 @@ ALIEFTOUR RESOLUSI
 -Konsisten untuk ngoding setiap hari 1 jam
 -Membuat program antrian
 -Membuat program sensor suhu
--Membuat konten youtube
 -Kolaborasi youtube
+-Membuat vlog
