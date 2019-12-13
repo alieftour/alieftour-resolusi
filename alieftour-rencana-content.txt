@@ -3,7 +3,8 @@ RENCANA KONTEN ALIEFTOUR
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar  
+    ~ Angular
+    ~ React 
 - PHP Framework
 - Interview
 - Vlog
